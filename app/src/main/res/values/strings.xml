@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dissertation</string>
+    <string name="app_title">Snakes and Ladders</string>
+    <string name="app_description">Please choose how many players you want in the game</string>
+    <string name="number_of_players">Number of Players</string>
+    <string name="continue_button">Continue Setup</string>
+    <string name="refresh_button">Refresh</string>
+
+    <string name="player_turn1">Player 1 Turn</string>
+    <string name="player_turn2">Player 2 Turn</string>
+    <string name="player_turn3">Player 3 Turn</string>
+    <string name="player_turn4">Player 4 Turn</string>
+    <string name="player_turn5">Player 5 Turn</string>
+    <string name="player_turn6">Player 6 Turn</string>
+
+    <string name="current_position">1</string>
+
+</resources>
